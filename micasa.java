@@ -8,6 +8,9 @@ public static  void main(String[] ars){
     person p=new person("ACHILLES",33);
 
     System.out.println("RECORD :"+ p.toString());
+    
+    System.out.println("RECORD :"+ p.toString());
+
 }
 
 }
